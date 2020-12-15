@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Golang and server-side technologies; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: letrananhduc0311@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1aapbf3KITzVTrSDRmzKie1CVMCq_Yg6o/view?usp=sharing)
 
 ### Languages and Tools
 <code><img height="20" src="https://user-images.githubusercontent.com/36192582/96400250-73f71180-11fa-11eb-8beb-d30122ce657b.png"></code>
