@@ -2,9 +2,12 @@
 
 ### Hello there 👋
 
+### My name is Duc Le Tran
+
 ### Something about myself:
-- 👨🏽‍💻 I’m currently working on something cool Android stuff with [Nedap N.V](https://nedap.com).
-- 🌱 I’m currently learning Golang and server-side technologies; 
+- 📖 I love open source community and try to contribute to interesting projects in Github.
+- 👨🏽‍💻 I’m currently working on cool Android projects with [Nedap Healthcare](https://nedap.com).
+- 📹 I’m currently learning webRTC and streaming technologies; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: letrananhduc0311@gmail.com
 
