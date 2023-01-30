@@ -6,8 +6,8 @@
 
 ### Something about myself:
 - 📖 I love open source community and try to contribute to interesting projects in Github.
-- 👨🏽‍💻 I’m currently working on cool Android projects with [Nedap Healthcare](https://nedap.com).
-- 📹 I’m currently learning webRTC and streaming technologies; 
+- 👨🏽‍💻 I’m currently building Android payment terminals with [Adyen](https://www.adyen.com/).
+- 📹 I’m currently learning Gradle, Jenkins and Jetpack Compose UI; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: letrananhduc0311@gmail.com
 
